@@ -16,5 +16,4 @@ Gitee:
 
 Private Gitlab
 
-![gitlab contribution graph](https://i.loli.net/2020/08/04/4kYAPbzWwcH1pFe.png)
-
+![image.png](https://i.loli.net/2020/08/28/iX5uhVyczxaG2Bn.png)
