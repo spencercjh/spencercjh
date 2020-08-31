@@ -21,4 +21,11 @@ Private Gitlab
 Wakatime:
 
 <!--START_SECTION:waka-->
+```text
+Java       20 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   45.96 % 
+YAML       6 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Python     6 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Groovy     4 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Markdown   1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+```
 <!--END_SECTION:waka-->
