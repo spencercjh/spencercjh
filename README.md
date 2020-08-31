@@ -17,3 +17,8 @@ Gitee:
 Private Gitlab
 
 ![image.png](https://i.loli.net/2020/08/28/iX5uhVyczxaG2Bn.png)
+
+Wakatime:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
