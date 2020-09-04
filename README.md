@@ -4,7 +4,7 @@ My resume: [Google Docs](https://docs.google.com/document/d/1o7iQKDF-_HZUHg6cGiC
 
 - 🔭 I’m currently working on AD/Infrastructure in [Inceptio.ai](https://www.inceptio.ai/) as intern since 02/2020
 - 🌱 I’m currently learning CS at Shanghai University for master degree
-- 💬 Ask me about Java, Micronaut, gRPC, RESTful, MySQL, Docker, K8s, [Argo Workflows](https://argoproj.github.io/argo/) ...
+- 💬 Ask me about Java, [Micronaut](http://micronaut.io/), gRPC, RESTful, MySQL, Docker, K8s, [Argo Workflows](https://argoproj.github.io/argo/) ...
 - 📫 How to reach me: shouspencercjh@foxmail.com
 - ⚡ Fun fact: riding, football(GK), tabletennis, badminton
 
