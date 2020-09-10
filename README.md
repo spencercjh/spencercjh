@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
-Python     9 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.60 % 
-Java       7 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-YAML       4 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Groovy     1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Markdown   1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Python            9 hrs 29 mins   ██████████▒░░░░░░░░░░░░░░   41.88 % 
+Java              5 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.28 % 
+YAML              3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Groovy            1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Protocol Buffer   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 <!--END_SECTION:waka-->
 
