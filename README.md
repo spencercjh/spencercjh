@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
 Java              8 hrs 26 mins   ██████████▒░░░░░░░░░░░░░░   41.43 % 
 YAML              5 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
