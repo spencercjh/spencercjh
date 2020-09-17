@@ -8,7 +8,7 @@ My resume: [Google Docs](https://docs.google.com/document/d/1o7iQKDF-_HZUHg6cGiC
 - 📫 How to reach me: spencercjh@shu.edu.cn or shouspencercjh@foxmail.com
 - ⚡ Fun fact: 🚴‍♂️, ⚽(GK🥅), 🏓, 🏸
 
-I’m not active on Github but often participate in the discussion of some issues about some projects my team using:
+I’m not active on Github but often participate in the discussion of some issues about projects my team using:
 
 Wakatime (Last 7 Days from Yesterday) :
 
