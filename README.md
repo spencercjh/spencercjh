@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2020 - 19 September, 2020
+Week: 13 September, 2020 - 20 September, 2020
 
 Java              8 hrs 42 mins   ██████████████▓░░░░░░░░░░   58.59 % 
 Python            2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 % 
