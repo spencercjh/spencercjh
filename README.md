@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2020 - 26 September, 2020
+Week: 20 September, 2020 - 27 September, 2020
 
-Java     11 hrs 31 mins  ███████████░░░░░░░░░░░░░░   44.56 % 
-C        3 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Python   3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-YAML     1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Go       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Java     11 hrs 31 mins  ███████████░░░░░░░░░░░░░░   44.41 % 
+C        3 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Python   3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+YAML     1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Go       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 <!--END_SECTION:waka-->
 
