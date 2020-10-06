@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2020 - 04 October, 2020
+Week: 28 September, 2020 - 05 October, 2020
 
-YAML       2 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Java       1 hr 48 mins    ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Python     1 hr 17 mins    █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Makefile   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-CMake      18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+YAML       1 hr 43 mins    ████████▒░░░░░░░░░░░░░░░░   33.70 % 
+Python     1 hr 16 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
+Java       48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Makefile   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+CMake      18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 <!--END_SECTION:waka-->
 
