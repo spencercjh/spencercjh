@@ -14,12 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
-
-YAML     42 mins         ████████████████░░░░░░░░░   63.48 % 
-Java     12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Python   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-SQL      3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
