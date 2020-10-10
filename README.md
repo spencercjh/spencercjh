@@ -14,7 +14,10 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2020 - 09 October, 2020
+
+Java              2 hrs 2 mins    ███████████████████████░░   92.25 % 
+Groovy            9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 <!--END_SECTION:waka-->
 
