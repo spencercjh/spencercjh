@@ -14,11 +14,11 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2020 - 10 October, 2020
+Week: 04 October, 2020 - 11 October, 2020
 
-Java              2 hrs 20 mins   ██████████████████████▒░░   89.37 % 
-Groovy            9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-SQL               6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Java              5 hrs 23 mins   ███████████████████████▓░   95.07 % 
+Groovy            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+SQL               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 <!--END_SECTION:waka-->
 
