@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
+Week: 20 October, 2020 - 27 October, 2020
 
-Java   4 hrs 57 mins   ███████████████████░░░░░░   75.42 % 
-YAML   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-C      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-C++    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-SQL    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java              4 hrs 57 mins   █████████████████████▒░░░   85.58 % 
+YAML              25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+SQL               11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Protocol Buffer   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
 
