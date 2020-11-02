@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
 Java         7 hrs 31 mins   ████████████████████████▓   98.17 % 
 YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
