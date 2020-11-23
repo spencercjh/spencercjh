@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2020 - 21 November, 2020
+Week: 15 November, 2020 - 22 November, 2020
 
 Java       2 hrs 24 mins   ██████████████▒░░░░░░░░░░   57.29 % 
 Other      24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
