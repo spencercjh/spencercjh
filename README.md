@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
 Python     5 hrs 8 mins    █████████████████▓░░░░░░░   71.32 % 
 Java       1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
