@@ -14,12 +14,12 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
-Java       6 hrs 26 mins   ███████████████████████░░   91.81 % 
-Groovy     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Markdown   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Python     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Java       7 hrs 57 mins   ███████████████████████▒░   92.93 % 
+Groovy     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Python     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+C++        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
