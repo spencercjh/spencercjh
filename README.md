@@ -14,12 +14,12 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
-Python     9 hrs 3 mins    ████████████▒░░░░░░░░░░░░   48.80 % 
-C++        2 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Java       2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-YAML       1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Markdown   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Python     7 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   45.71 % 
+C++        2 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Java       2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Markdown   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+CMake      26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 <!--END_SECTION:waka-->
