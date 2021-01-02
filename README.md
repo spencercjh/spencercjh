@@ -14,12 +14,12 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
-Go         12 hrs 14 mins  ██████████████████▓░░░░░░   75.08 % 
-Java       2 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Markdown   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Python     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Go         9 hrs 57 mins   ██████████████████░░░░░░░   72.60 % 
+Java       2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Markdown   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Python     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Other      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
