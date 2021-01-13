@@ -14,12 +14,12 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2021 - 11 January, 2021
+Week: 05 January, 2021 - 12 January, 2021
 
-Java         6 hrs 2 mins    ████████████████▒░░░░░░░░   65.33 % 
-Go           3 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.56 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Java       6 hrs 2 mins    ████████████████░░░░░░░░░   64.08 % 
+Go         3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 % 
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
