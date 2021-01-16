@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My resume: [Google Docs](https://docs.google.com/document/d/1o7iQKDF-_HZUHg6cGiCSl6txrcuQ2tbQttHFFAUeRhc/edit?usp=sharing)
+My Chinese resume: [Github Page](https://spencercjh.github.io/resume/)
 
 - ~🔭 I’m currently working on AD/Infrastructure in [Inceptio.ai](https://www.inceptio.ai/) as intern since 02/2020~
 - 🌱 I’m currently studying software engineering at Shanghai University for master degree. My research direction is ~big data analysis and distributed computing~ distributed machine learning
