@@ -14,10 +14,8 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2021 - 28 January, 2021
+Week: 22 January, 2021 - 29 January, 2021
 
-Java     2 hrs 44 mins   ████████████████████████░   95.72 % 
-XML      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-YAML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Java     2 hrs 2 mins    █████████████████████████   99.36 % 
 ```
 <!--END_SECTION:waka-->
