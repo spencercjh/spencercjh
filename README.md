@@ -14,8 +14,8 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2021 - 03 February, 2021
+Week: 28 January, 2021 - 04 February, 2021
 
-Java     3 hrs 2 mins    █████████████████████████   99.90 % 
+Java     3 hrs 8 mins    █████████████████████████   99.90 % 
 ```
 <!--END_SECTION:waka-->
