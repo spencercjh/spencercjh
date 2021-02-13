@@ -14,10 +14,8 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2021 - 11 February, 2021
+Week: 05 February, 2021 - 12 February, 2021
 
-Java    40 mins         ███████████████████░░░░░░   75.51 % 
-Go      9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
-C++     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Java   33 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
