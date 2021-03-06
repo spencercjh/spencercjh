@@ -14,12 +14,12 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 February, 2021 - 04 March, 2021
+Week: 26 February, 2021 - 05 March, 2021
 
-Markdown   2 hrs 55 mins   ██████████████████▓░░░░░░   74.83 % 
-YAML       44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 % 
-JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Java       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Python     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Markdown   3 hrs 9 mins    ██████████████████▒░░░░░░   72.91 % 
+YAML       45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Java       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Python     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
