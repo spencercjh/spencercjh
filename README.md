@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 March, 2021 - 09 March, 2021
+Week: 03 March, 2021 - 10 March, 2021
 
 Markdown   3 hrs 9 mins    █████████████████░░░░░░░░   68.25 % 
 YAML       45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
