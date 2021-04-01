@@ -14,12 +14,12 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 March, 2021 - 30 March, 2021
+Week: 24 March, 2021 - 31 March, 2021
 
-Java       2 hrs 37 mins   █████████████▓░░░░░░░░░░░   55.01 % 
-Python     1 hr 44 mins    █████████░░░░░░░░░░░░░░░░   36.56 % 
-Markdown   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-INI        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-XML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Java       3 hrs 20 mins   ██████████████▓░░░░░░░░░░   58.73 % 
+Python     1 hr 44 mins    ███████▓░░░░░░░░░░░░░░░░░   30.58 % 
+Markdown   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+INI        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+XML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
