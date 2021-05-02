@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 April, 2021 - 30 April, 2021
+Week: 24 April, 2021 - 01 May, 2021
 
 Java       4 hrs 7 mins    ████████████████▒░░░░░░░░   65.54 % 
 Markdown   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
