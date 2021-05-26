@@ -23,3 +23,6 @@ YAML       22 mins         ▓░░░░░░░░░░░░░░░░�
 Markdown   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=spencercjh&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercjh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
