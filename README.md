@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
+Week: 24 May, 2021 - 31 May, 2021
 
-Java       2 hrs 16 mins   ████████████████████▒░░░░   80.78 % 
-Groovy     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Markdown   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-YAML       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-SQL        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Java       2 hrs 7 mins    ████████████████████░░░░░   79.63 % 
+Groovy     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Markdown   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+YAML       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+SQL        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
 
