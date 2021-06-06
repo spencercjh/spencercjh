@@ -14,10 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 May, 2021 - 04 June, 2021
-
-Java       17 mins         ███████████████████░░░░░░   75.59 % 
-Markdown   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
