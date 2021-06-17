@@ -14,7 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 June, 2021 - 16 June, 2021
+
+Makefile     32 mins         ███████████▒░░░░░░░░░░░░░   45.66 % 
+C++          19 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Git Config   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Bash         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+C            3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
 
