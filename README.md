@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 June, 2021 - 17 June, 2021
+Week: 11 June, 2021 - 18 June, 2021
 
-Makefile     32 mins         ███████████▒░░░░░░░░░░░░░   45.66 % 
-C++          19 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Git Config   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Bash         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-C            3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Makefile     45 mins         ████████████▓░░░░░░░░░░░░   51.13 % 
+C++          19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 % 
+Git Config   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Bash         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 <!--END_SECTION:waka-->
 
