@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 June, 2021 - 19 June, 2021
+Week: 13 June, 2021 - 20 June, 2021
 
 Makefile     45 mins         ████████████▓░░░░░░░░░░░░   51.13 % 
 C++          19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 % 
