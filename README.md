@@ -3,7 +3,7 @@
 My Chinese resume: [Github Page](https://spencercjh.github.io/resume/)
 
 - 🔭 Because of interest in software development and curiosity in technique, I have multiple internships during recent years at school. It makes me to be a junior back-end developer interested in microservice framework, K8s and system architecture.
-- 🌱 I’m currently studying software engineering at Shanghai University for master degree. My research direction is distributed machine learning. Keyword: Parameter Server, ADMM, Horovod, XDL.
+- 🌱 I’m currently studying software engineering at Shanghai University for master degree. My research direction is distributed machine learning. Keyword: Parameter Server, ADMM
 - 💬 Discuss with me about Java^8, [Micronaut](http://micronaut.io/), Spring, gRPC, RESTful, MySQL, Docker, K8s...Or teatch me to write Go, Python or Cpp. xD
 - 📫 How to reach me: shouspencercjh@foxmail.com
 - ⚡ Fun fact: 🚴‍♂️, ⚽(GK🥅), 🏓, 🏸
