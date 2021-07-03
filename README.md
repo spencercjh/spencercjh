@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 June, 2021 - 01 July, 2021
+Week: 26 June, 2021 - 02 July, 2021
 
-C++        4 hrs 42 mins   ████████████▓░░░░░░░░░░░░   51.05 % 
-Python     1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Bash       1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Makefile   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Java       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+C++        4 hrs 13 mins   █████████████░░░░░░░░░░░░   51.79 % 
+Bash       1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Python     55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Makefile   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Java       24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 <!--END_SECTION:waka-->
 
