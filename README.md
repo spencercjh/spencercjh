@@ -14,10 +14,11 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 July, 2021 - 12 July, 2021
+Week: 07 July, 2021 - 13 July, 2021
 
-Python     1 min           ██████████▓░░░░░░░░░░░░░░   43.06 % 
-C++        1 min           ████████▒░░░░░░░░░░░░░░░░   33.06 % 
+C++        15 mins         ███████████▓░░░░░░░░░░░░░   46.03 % 
+Bash       13 mins         ██████████░░░░░░░░░░░░░░░   39.89 % 
+Other      4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 <!--END_SECTION:waka-->
 
