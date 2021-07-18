@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2021 - 16 July, 2021
+Week: 11 July, 2021 - 17 July, 2021
 
 C++      43 mins         ███████████▒░░░░░░░░░░░░░   45.04 % 
 Bash     36 mins         █████████▓░░░░░░░░░░░░░░░   38.24 % 
