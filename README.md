@@ -14,13 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
-
-C++        1 hr 10 mins    ████████▓░░░░░░░░░░░░░░░░   34.31 % 
-C          1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.68 % 
-Makefile   42 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
-Bash       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Markdown   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
