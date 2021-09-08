@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
-C++     2 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.81 % 
-Other   1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.14 % 
-Bash    34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-CMake   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-C       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+C++     2 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.75 % 
+Other   1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
+Bash    34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+CMake   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+C       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 <!--END_SECTION:waka-->
 
