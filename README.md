@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
 C++     2 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.75 % 
 Other   1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
