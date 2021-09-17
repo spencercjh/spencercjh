@@ -14,7 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 September, 2021 - 16 September, 2021
+
+Java         52 mins         ██████████████▒░░░░░░░░░░   57.09 % 
+YAML         21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.87 % 
+Groovy       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Git Config   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Bash         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 <!--END_SECTION:waka-->
 
