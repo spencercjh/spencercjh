@@ -14,13 +14,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-Java       6 hrs 15 mins   ████████████████░░░░░░░░░   63.61 % 
-YAML       1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Groovy     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-XML        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Java       6 hrs 23 mins   ████████████████░░░░░░░░░   63.57 % 
+YAML       1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Groovy     43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+XML        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Markdown   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
 
