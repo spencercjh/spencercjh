@@ -14,7 +14,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2021 - 20 September, 2021
+Week: 15 September, 2021 - 21 September, 2021
 
 Java       6 hrs 23 mins   ████████████████░░░░░░░░░   63.57 % 
 YAML       1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
