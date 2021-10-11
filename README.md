@@ -8,7 +8,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 TypeScript   6 hrs 45 mins   ███████████████▓░░░░░░░░░   62.66 % 
 JSON         2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
