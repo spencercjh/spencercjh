@@ -8,13 +8,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 November, 2021 - 26 November, 2021
+Week: 21 November, 2021 - 27 November, 2021
 
-TypeScript   7 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   35.76 % 
-Java         5 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.67 % 
-YAML         2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-JavaScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JSON         1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Java         7 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.93 % 
+TypeScript   7 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   32.80 % 
+YAML         2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+JSON         1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JavaScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 <!--END_SECTION:waka-->
 
