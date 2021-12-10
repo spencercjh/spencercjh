@@ -8,7 +8,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
 Java           18 hrs 3 mins   ███████████████▒░░░░░░░░░   60.67 % 
 YAML           2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
