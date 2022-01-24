@@ -8,13 +8,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 17 January, 2022 - 23 January, 2022
 
-YAML           8 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   36.48 % 
-Java           5 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.61 % 
-TypeScript     4 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-HTTP Request   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-textmate       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+YAML           8 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.31 % 
+TypeScript     4 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Java           2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+HTTP Request   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+textmate       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 <!--END_SECTION:waka-->
 
