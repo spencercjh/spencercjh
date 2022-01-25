@@ -8,7 +8,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 YAML           8 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.31 % 
 TypeScript     4 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
