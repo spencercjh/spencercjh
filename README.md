@@ -8,7 +8,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
 TypeScript   14 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   42.87 % 
 Java         8 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.79 % 
