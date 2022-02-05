@@ -8,7 +8,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
 Java              3 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.51 % 
 YAML              3 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   31.08 % 
