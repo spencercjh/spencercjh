@@ -8,7 +8,7 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 Java              6 hrs 1 min     █████████████▒░░░░░░░░░░░   53.42 % 
 protobuf          1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 % 
