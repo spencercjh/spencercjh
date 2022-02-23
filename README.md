@@ -8,15 +8,13 @@ Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-Total: 27 hrs 55 mins
-
-Java              17 hrs 27 mins  ███████████████▒░░░░░░░░░   61.94 % 
-TypeScript        3 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Protocol Buffer   1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-YAML              1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-protobuf          1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Java           10 hrs 50 mins  ██████████████░░░░░░░░░░░   55.38 % 
+YAML           2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+HTTP Request   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JSON           48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 <!--END_SECTION:waka-->
 
