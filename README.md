@@ -7,15 +7,18 @@ Worrking on backend devlopment on k8s environment, interested in DevOps and SRE.
 Wakatime (Last 7 Days from Yesterday) :
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Java              6 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   41.83 % 
-YAML              2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.43 % 
-HTTP Request      1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-TypeScript        1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Protocol Buffer   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Java               7 hrs 6 mins    ███████████░░░░░░░░░░░░░░   44.12 %
+YAML               2 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+HTTP Request       1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+TypeScript         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Protocol Buffer    1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+JSON               48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=spencercjh&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
