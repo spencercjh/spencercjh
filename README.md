@@ -9,14 +9,14 @@ Wakatime (Last 7 Days from Yesterday) :
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2022 - To: 08 March 2022
+From: 02 March 2022 - To: 09 March 2022
 
-YAML               5 hrs 29 mins   █████████████░░░░░░░░░░░░   52.41 %
-Java               1 hr 45 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-HTTP Request       55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-Python             38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-CSV                28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-TypeScript         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+YAML                  4 hrs 22 mins   ████████████▒░░░░░░░░░░░░   49.24 %
+Python                1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+HTTP Request          1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+CSV                   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Java                  28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+TypeScript            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
