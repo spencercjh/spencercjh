@@ -9,9 +9,9 @@ Wakatime (Last 7 Days from Yesterday) :
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
-Other                 42 hrs 13 mins  █████████████████░░░░░░░░   68.24 %
+Other                 36 hrs 23 mins  ███████████████▒░░░░░░░░░   61.68 %
 ```
 
 <!--END_SECTION:waka-->
