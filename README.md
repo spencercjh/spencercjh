@@ -9,14 +9,14 @@ Wakatime (Last 7 Days from Yesterday) :
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-Java                  4 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.21 %
-TypeScript            1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-YAML                  1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Protocol Buffer       51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Markdown              47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-CMake                 47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Java                  5 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 %
+Protocol Buffer       3 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+protobuf              1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+TypeScript            1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Markdown              1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+YAML                  51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
