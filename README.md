@@ -9,14 +9,14 @@ Wakatime (Last 7 Days from Yesterday) :
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 May 2022 - To: 27 May 2022
+From: 21 May 2022 - To: 28 May 2022
 
-Protocol Buffer       6 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   35.29 %
-protobuf              4 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Java                  3 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-SQL                   1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Markdown              1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Groovy                26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Java                  12 hrs 28 mins  ███████████▒░░░░░░░░░░░░░   45.03 %
+Protocol Buffer       6 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+protobuf              4 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+SQL                   2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Markdown              1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Groovy                26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
