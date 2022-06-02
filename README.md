@@ -9,10 +9,10 @@ Wakatime (Last 7 Days from Yesterday) :
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
-Java                  18 hrs 6 mins   ██████████▒░░░░░░░░░░░░░░   41.42 %
-Other                 13 hrs 53 mins  ████████░░░░░░░░░░░░░░░░░   31.76 %
+Java                  18 hrs 12 mins  ██████████░░░░░░░░░░░░░░░   40.08 %
+Other                 17 hrs 27 mins  █████████▓░░░░░░░░░░░░░░░   38.44 %
 ```
 
 <!--END_SECTION:waka-->
